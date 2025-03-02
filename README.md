@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/it3037/Pandas_Tutorials/main/da.jpg" alt="Profile Banner" width="100%" />
 </p>
+
 
 # Hi there! 👋 I'm Rakesh  
 
