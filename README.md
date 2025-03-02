@@ -3,11 +3,13 @@
 <h1 align="center">I'm Rakesh</h1>
 
 ### I have technical experience and interest in -
-* Computer vision 
-* Natural Language Processing 
-* Deep Learning
-* Machine Learning
-
+* Data Analysis 
+* Data Engineer
+* MySQL
+* Python
+* SnowFlake
+* Power BI
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
