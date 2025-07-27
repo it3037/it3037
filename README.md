@@ -6,7 +6,7 @@
 
 # Hi there! 👋 I'm Rakesh  
 
-💻 **Software Engineer | Data Science & AI Enthusiast**  
+💻 **Data Analyst**  
 🔍 Passionate about **Data Analysis, Data Engineering, Python, SQL, and AI**  
 📊 Exploring **Power BI, Snowflake, Azure, and Tableau**  
 
